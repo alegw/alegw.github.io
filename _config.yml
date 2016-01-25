@@ -22,3 +22,4 @@ markdown: kramdown
 
 # Custom settings
 permalink: /:title
+timezone: America/Caracas
