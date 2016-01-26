@@ -6,7 +6,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-      <img href="{{ post.cover }}"/>
+      <img src="/img/{{ post.slug }}.png"/>
       <a data-content="{{ post.one-liner }}" class="project-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}, {{ post.cover }}</a>
       </li>
     {% endfor %}
