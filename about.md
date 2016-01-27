@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I work at the intersection of people and software. I love to make connections with people from all kinds of backgrounds and discuss what technologists can and should be doing to empower people to lead autonomous, masterful, purposeful lives.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I have taken on the roles of user researcher, user experience designer and software developer.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I believe time and attention span are people's most valuable resources, as great breakthroughs occur when we allow time for serendipity. I am particularly passionate about education, and love teaching. I want to learn more about journalism, economics and public policy.
+
+You can follow me at {% include icon-twitter.html username="alemacgo" %} and fork my repos at
+{% include icon-github.html username="alemacgo" %}.
