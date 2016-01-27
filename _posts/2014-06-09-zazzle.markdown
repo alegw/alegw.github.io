@@ -21,4 +21,3 @@ My friend [Matt Appleby](https://www.linkedin.com/in/matthew-appleby-21446269)
 and I envisioned and prototyped a new app using Sketch, Quartz Composer and the iOS SDK.
 
 ![Some insights gathered from a customer during his visit, details of a user's interaction with the notifications center, and a prototype of the novel app concept running on the iOS simulator.](/img/zazzle/zazzle-2014.jpg)
-
