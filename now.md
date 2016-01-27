@@ -11,13 +11,13 @@ permalink: /now/
 * Volunteering my skills in organizations that lend a hand to refugees in Berlin.
 * Reading [Hacker News](http://www.twitter.com/newsycombinator) to stay up-to-date with tech, society and education trends.
 * Dreaming about making Venezuela a great place to live.
-  * Writing for [Caracas Chronicles](http://www.caracaschronicles.com) and engaging in the necessary political debate.
+  * Directing technology at [Caracas Chronicles](http://www.caracaschronicles.com), writing and engaging in the necessary political debate.
   * Building a network of technologists to plan and execute impactful projects in the country when the time is ripe.
 * Reflecting on how to best teach computer science principles to people.
 * Slowly learning German.
 * Slowly getting better at [learning how to learn](https://www.coursera.org/learn/learning-how-to-learn).
 * Savoring life with family and friends.
 
-I last updated this page on January 3, 2016.
+I last updated this page on January 27, 2016.
 
 [See what other people are doing now](http://www.nownownow.com).
