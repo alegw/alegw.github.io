@@ -19,3 +19,5 @@ permalink: /now/
 * Savoring life with family and friends.
 
 I last updated this page on November 20, 2015.
+
+[See what other people are doing now](http://www.nownownow.com).
