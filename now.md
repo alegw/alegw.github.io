@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Now
+title: How I am spending my time now
+short-title: Now
 permalink: /now/
 ---
 
-# This is how I am spending my time now
 * Starting [my own startup with a friend](http://www.magia.se/comewith-landing/).
 * Working on a website that accurately captures the work I want to do in the future: I want to teach computing to the people.
 * Exercising 7 minutes a day, to form the habit.
