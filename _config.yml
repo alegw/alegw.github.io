@@ -7,7 +7,7 @@
 
 # Site settings
 title: ale.earth
-goodbye: Thanks, visit again soon! More projects are on the way.
+goodbye: Thanks, visit again soon!<br/>More projects are on the way.
 description: > # this means to ignore newlines until "baseurl:"
   This website is home to Alejandro Machado's projects.
 baseurl: "" # the subpath of your site, e.g. /blog
