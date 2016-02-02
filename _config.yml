@@ -20,4 +20,3 @@ markdown: kramdown
 # Custom settings
 permalink: /:categories/:title
 timezone: America/Caracas
-
