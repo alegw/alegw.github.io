@@ -11,7 +11,8 @@ goodbye: Thanks, visit again soon!<br/>More projects are on the way.
 description: > # this means to ignore newlines until "baseurl:"
   This website is home to Alejandro Machado's projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ale.earth" # the base hostname & protocol for your site
+url: "https://www.ale.earth"
+enforce_ssl: "www.ale.earth"
 
 # Build settings
 markdown: kramdown
@@ -19,3 +20,4 @@ markdown: kramdown
 # Custom settings
 permalink: /:categories/:title
 timezone: America/Caracas
+
