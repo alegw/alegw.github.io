@@ -6,12 +6,12 @@ permalink: /now/
 ---
 
 # How I am spending my time
-* Applying for jobs with great teams, to keep learning how to better design-engineer software.
+* Applying for jobs with great teams, to keep learning how to better research, design and engineer software.
 * Exercising 7 minutes a day, to form the habit.
 * Volunteering my skills in organizations that lend a hand to refugees in Berlin, like [Kiron](https://kiron.university/) and [ReDI](http://www.redi-school.org/).
 * Reading [Hacker News](http://www.twitter.com/newsycombinator) to stay up-to-date with tech, society and education trends.
 * Dreaming about making Venezuela a great place to live.
-  * Directing technology at [Caracas Chronicles](http://www.caracaschronicles.com), writing and engaging in the political debate.
+  * Directing technology at [Caracas Chronicles](http://www.caracaschronicles.com), writing and engaging in the necessary political debate.
   * Building a network of technologists to plan and execute impactful projects in the country when the time is ripe.
 * Reflecting on how to best teach computer science principles to people.
 * Slowly learning German.
@@ -29,5 +29,5 @@ what mine looks like right now. And yeah, maybe we should call “smartphones”
 # This page
 I last updated this page on February 17, 2016.
 
-This page is part of a movement started by [Derek Sivers](https://sivers.org/). [See what other people are doing now](http://www.nownownow.com).
+This is part of a movement started by [Derek Sivers](https://sivers.org/). [See what other people are doing now](http://www.nownownow.com).
 
