@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Process
-short-title: Process
+title: My process
+short-title: My process
 permalink: /process/
 ---
 
