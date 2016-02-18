@@ -19,4 +19,4 @@ During late 2015, I decided to send them an unsolicited “cover website” with
 # Research
 I read a lot about the progress of educational technology companies and have been a Treehouse student since 2013. I had wanted to make a strong pitch for Treehouse to hire me for a long time, so I started reading their blog more often and immediately writing down ideas for improvements. It was like a brainstorming session that spanned months.
 
-(more soon...)
+(the rest of this story will be published on Friday, February 19, 2016)
