@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Spark"
-date:   2014-01-10 16:00:00
 one-liner: "TODO"
 categories: projects
 ---
+This content will be updated later today (Thursday, February 18, 2016).
+
 As part of a team of four, in 2014 I worked with a multimedia agency based in
 Funchal to design and develop an application to foster well-being by
 encouraging people to participate in unexpected daily challenges.

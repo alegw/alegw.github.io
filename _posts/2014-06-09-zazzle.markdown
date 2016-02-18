@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Zazzle"
-date:   2014-06-09 10:00:00
 one-liner: "TODO"
 categories: projects
 ---
+This content will be updated later today (Thursday, February 18, 2016).
+
 # UI Design
 I worked at [zazzle.com](http://www.zazzle.com) as a location-independent UI designer
 during early 2015.  Collaborating closely with the rest of the Design Team in California,
@@ -12,6 +13,7 @@ I followed a quick research–explore–prototype methodology to develop Zazzle'
 and improve consistency across their digital channels: website, mobile apps and emails.
 
 ![Three examples of UI redesign proposals that I delivered.](/img/zazzle/zazzle-2015.jpg)
+
 
 # Experience Design
 During the summer of 2014, I worked as an Experience Designer Intern with
