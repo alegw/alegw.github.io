@@ -4,4 +4,6 @@ title:  "Tourhood"
 one-liner: "TODO"
 categories: projects
 ---
-This content will be available later today (Friday, February 19, 2016).
+This content will be available this weekend (ending Sunday, February 19, 2016).
+
+In the meantime, check out [my friend Chrys Francisco's take on the project](chrysfrancisco.com/tourhood.html).
