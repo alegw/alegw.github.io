@@ -8,8 +8,12 @@ categories: projects
 ---
 Surge is a system that encourages people to spontaneously plan events with their extended friend circles.
 
-I am in charge of its technology stack, develop the iOS app, and oversee the Android development process.
+I am a co-founder in charge of its technology stack, taking design decisions and overseeing the development process. Until recently, I was the sole developer for its iOS app.
 
 We’re using [Parse](parse.com) as our backend and database, [Layer](layer.com) for chat integration, and push notification services.
 
-The app is not yet in the App Store, but you can play a [demo video here](https://www.dropbox.com/s/65ffboqyar0efub/ComeWith%20Demo.mp4?dl=0).
+The app is in private beta and will hit the app stores soon. You can contact me if you want to learn more about it in the meantime.
+
+{% include center.html %}
+<img alt="A screenshot of the pre-release version running on the iPhone simulator." src="/img/social-possibilities/surge-screenshot.png" />
+{% include ENDcenter.html %}
