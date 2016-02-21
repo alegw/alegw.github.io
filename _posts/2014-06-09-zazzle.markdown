@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zazzle"
+title:  "Improving Zazzle's UI and UX"
 one-liner: "TODO"
 categories: projects
 ---
