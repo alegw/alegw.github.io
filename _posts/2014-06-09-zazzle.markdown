@@ -4,7 +4,9 @@ title:  "Zazzle"
 one-liner: "TODO"
 categories: projects
 ---
-This content will be updated this weekend (ending Sunday, February 19, 2016).
+*This content will be rewritten on Tuesday, February 23, 2016.*
+
+*Thanks for being patient.*
 
 # UI Design
 I worked at [zazzle.com](http://www.zazzle.com) as a location-independent UI designer

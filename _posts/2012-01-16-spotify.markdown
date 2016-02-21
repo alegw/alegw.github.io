@@ -6,4 +6,6 @@ one-liner: "TODO"
 
 categories: projects
 ---
-This content will be available this weekend (ending Sunday, February 19, 2016).
+*This content will be available on Monday, February 22, 2016.*
+
+*Thanks for being patient.*

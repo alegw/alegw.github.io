@@ -4,7 +4,7 @@ title:  "Spark"
 one-liner: "TODO"
 categories: projects
 ---
-This content will be updated this weekend (ending Sunday, February 19, 2016).
+*This content will be updated this weekend (ending Sunday, February 21, 2016).*
 
 As part of a team of four, in 2014 I worked with a multimedia agency based in
 Funchal to design and develop an application to foster well-being by
