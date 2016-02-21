@@ -14,6 +14,8 @@ We’re using [Parse](parse.com) as our backend and database, [Layer](layer.com)
 
 The app has been in development since October 2015, is currently in private beta and will hit the app stores soon. You can contact me if you want to learn more about it in the meantime.
 
-{% include center.html %}
+<div>
+<center>
 <img alt="A screenshot of the pre-release version running on the iPhone simulator." src="/img/social-possibilities/surge-screenshot.png" />
-{% include ENDcenter.html %}
+</center>
+</div>
