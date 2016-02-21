@@ -12,7 +12,7 @@ I am a co-founder in charge of its technology stack, taking design decisions and
 
 We’re using [Parse](parse.com) as our backend and database, [Layer](layer.com) for chat integration, and push notification services.
 
-The app is in private beta and will hit the app stores soon. You can contact me if you want to learn more about it in the meantime.
+The app has been in development since October 2015, is currently in private beta and will hit the app stores soon. You can contact me if you want to learn more about it in the meantime.
 
 {% include center.html %}
 <img alt="A screenshot of the pre-release version running on the iPhone simulator." src="/img/social-possibilities/surge-screenshot.png" />
