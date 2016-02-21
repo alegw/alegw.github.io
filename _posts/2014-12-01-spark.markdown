@@ -48,12 +48,18 @@ and the iOS SDK.
 
 ![Pictures of the team members](/img/spark/team.jpg)
 
-# The client
 
-{:.client-logo}
-[![Wowsystem's logo](/img/spark/wowsystems-star.svg)](http://wowsystems.pt)
+*From left to right, [me](https://www.ale.earth) and my friends [André](http://andreaguiar.info/), [Arundhati](http://arundhatibasu.com/) and [Rui](http://ruimarcalo.com/).*
+
+# The client
 
 [Wowsystems](http://wowsystems.pt/) is an interactive software house based in
 Funchal, capital of the beautiful island of Madeira. They are software
 artists that envision and develop both multimedia solutions and 
 [useful](http://www.delineato.com/), [delightful](http://www.placetowrite.com/) software.
+
+<div>
+<center>
+<img src="/img/spark/wowsystems-star.svg" width="50px"/>
+</center>
+</div>
