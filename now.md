@@ -16,6 +16,7 @@ reflecting on how to best create a culture of computer science knowledge.
 * Dreaming about making Venezuela a great place to live.
   * Directing technology at [Caracas Chronicles](http://www.caracaschronicles.com), writing and engaging in the necessary political debate.
   * Building a network of technologists to plan and execute impactful projects in the country when the time is ripe.
+* Coaching people to jumpstart UX careers at the [Interaction Design Foundation](https://www.interaction-design.org/)
 * Filling my idle time with [great podcasts](http://fourhourworkweek.com/podcast/) and [audiobooks](http://www.audible.com/pd/Nonfiction/A-Guide-to-the-Good-Life-Audiobook/B00G6ZLMDC).
 * Savoring life with family and friends.
 
