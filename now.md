@@ -7,7 +7,7 @@ permalink: /now/
 
 # How I am spending my time
 * Creating a great UX culture at [mycs](http://www.mycs.de) by engaging in user research, redesigning crucial aspects of the customer experience and sharing knowledge within the company.
-* Adapting to a vegan lifestyle.
+* Adapting to a vegan and stoic lifestyle.
 * Exercising 7 minutes a day, to form the habit.
 * Teaching technology to refugees at [ReDI](http://www.redi-school.org/), and
 reflecting on how to best create a culture of computer science knowledge.
@@ -29,6 +29,6 @@ what mine looks like right now. And yeah, maybe we should call “smartphones”
 ![This is my iPhone's current main screen.](/img/screens/screen-2016.03.25.jpg)
 
 # This page
-I last updated this page on March 25, 2016.
+I last updated this page on March 27, 2016.
 
 This is part of a movement started by [Derek Sivers](https://sivers.org/). [See what other people are doing now](http://www.nownownow.com).
