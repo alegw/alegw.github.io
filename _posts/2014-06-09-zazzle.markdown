@@ -4,7 +4,7 @@ title:  "Improving Zazzle's UI and UX"
 one-liner: "TODO"
 categories: projects
 ---
-*This content will be rewritten on Monday, March 7, 2016.*
+*This content will be rewritten soon.*
 
 *Thanks for being patient.*
 
