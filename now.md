@@ -14,7 +14,7 @@ permalink: /now/
 4. Working on side-projects in education and journalism.
   * Directing technology and writing at [Caracas Chronicles](http://www.caracaschronicles.com).
   * Building a network of technologists to plan and execute impactful projects in Venezuela when the time is ripe.
-  * Mentoring refugees who are learning Ruby on Rails at [ReDI School](http://www.redi.org).
+  * Mentoring refugees who are learning Ruby on Rails at [ReDI School](http://www.redi-school.org).
   * Working on the technical aspects of a multimedia pitch for a great educational startup.
 5. Filling my idle time with [great podcasts](http://fourhourworkweek.com/podcast/) and [audiobooks](http://www.audible.com/pd/Nonfiction/A-Guide-to-the-Good-Life-Audiobook/B00G6ZLMDC).
 6. Attending the School of Practical Philosophy on Wednesday nights.
