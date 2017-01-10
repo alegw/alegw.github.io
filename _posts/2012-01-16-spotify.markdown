@@ -3,6 +3,7 @@ layout: post
 title:  "Spotify's Kent Bug Hunt"
 slug: "spotify"
 one-liner: "TODO"
+visible: 1
 
 categories: projects
 ---

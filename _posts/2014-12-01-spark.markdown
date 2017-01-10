@@ -8,7 +8,7 @@ visible: 1
 Spark is an application that aims to foster well-being by
 encouraging people to participate in unexpected daily challenges.
 
-[Wowsystems](http://wowsystems.pt) is actively developing the iOS version,
+[Wow!Systems](http://wowsystems.pt) is actively developing the iOS version,
 currently available for a group of private beta testers. You can watch a quick
 demo below: the password is **dailychallenge**.
 
