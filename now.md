@@ -6,7 +6,7 @@ permalink: /now/
 ---
 
 # How I am spending my time
-Developing a career as a human-centered design professional. I'm currently **Product Designer at [mycs](http://www.mycs.de)**,
+Developing a career as a human-centered design professional. I'm currently **Product Designer at [mycs.com](http://de.mycs.com)**,
 where I engage in user research, redesign crucial aspects of the customer experience and
 help develop a company culture centered around user needs.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Improving Zazzle's UI and UX"
 one-liner: "TODO"
 categories: projects
+visible: 1
 ---
 *This content will be rewritten soon.*
 
