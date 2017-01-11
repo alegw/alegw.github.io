@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Spark"
+title:  "Spark: challenges for well-being"
 one-liner: "TODO"
 categories: projects
 visible: 1
 ---
 Spark is an application that aims to foster well-being by
-encouraging people to participate in unexpected daily challenges.
+encouraging people to share unexpected daily challenges with a virtual community.
+We designed it as part of our Capstone Project of the Master in Human-Computer Interaction program.
 
-[Wow!Systems](http://wowsystems.pt) is actively developing the iOS version,
+I researched about technology for well-being and built the prototype for the iOS version, which is
 currently available for a group of private beta testers. You can watch a quick
 demo below: the password is **dailychallenge**.
 
@@ -18,7 +19,6 @@ demo below: the password is **dailychallenge**.
 </center>
 <br/>
 </div>
-
 
 # The process
 [![An illustration of our final concept, a frame of our concept video, and screenshots of our final prototype.](/img/spark/spark.jpg)](http://spark.m-iti.org/)
@@ -55,13 +55,7 @@ and the iOS SDK.
 
 # The client
 
-[Wowsystems](http://wowsystems.pt/) is an interactive software house based in
+[Wow!Systems](http://wowsystems.pt/) is an interactive software house based in
 Funchal, capital of the beautiful island of Madeira. They are software
 artists that envision and develop both multimedia solutions and 
 [useful](http://www.delineato.com/), [delightful](http://www.placetowrite.com/) software.
-
-<div>
-<center>
-<img src="/img/spark/wowsystems-star.svg" width="50px"/>
-</center>
-</div>

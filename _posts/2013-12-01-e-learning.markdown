@@ -1,68 +1,9 @@
 ---
 layout: post
-title:  "E-learning"
+title:  "E-learning Design Principles"
 one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-Spark is an application that aims to foster well-being by
-encouraging people to participate in unexpected daily challenges.
 
-[Wow!Systems](http://wowsystems.pt) is actively developing the iOS version,
-currently available for a group of private beta testers. You can watch a quick
-demo below: the password is **dailychallenge**.
-
-<div>
-<center>
-<iframe src="//player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</center>
-<br/>
-</div>
-
-
-
-# The process
-[![An illustration of our final concept, a frame of our concept video, and screenshots of our final prototype.](/img/spark/spark.jpg)](http://spark.m-iti.org/)
-
-You can find a detailed account of our eight-month-long journey at the 
-[project's official website](http://spark.m-iti.org/).
-Here's a lightning summary:
-
-- Our client provided us with an initial direction that we developed into a
-  **hunt statement**.
-- We performed research to crystallize the direction into a concept.
-    - Reading relevant literature
-    - Interviewing experts
-    - Comparing existing apps
-    - Conducting an exploratory survey
-- We focused on an idea: **to challenge people to break out of their routine**.
-- We developed an email-based prototype that implemented the idea above, and
-  had real people use it for a number of days. This is called a **concept probe**.
-- We refined the concept through speed dating and low-fidelity prototypes.
-- We crafted an interactive, high-fidelity prototype as a native iOS app that
-  illustrated the final concept.
-
-# The team
-We were four people sharing the responsibilities of researching,
-brainstorming, usability testing, and process-tweaking.
-
-I was also responsible for engineering the interactive prototype using Swift 
-and the iOS SDK.
-
-![Pictures of the team members](/img/spark/team.jpg)
-
-
-*From left to right, [me](https://www.ale.earth) and my friends [André](http://andreaguiar.info/), [Arundhati](http://arundhatibasu.com/) and [Rui](http://ruimarcalo.com/).*
-
-# The client
-
-[Wowsystems](http://wowsystems.pt/) is an interactive software house based in
-Funchal, capital of the beautiful island of Madeira. They are software
-artists that envision and develop both multimedia solutions and 
-[useful](http://www.delineato.com/), [delightful](http://www.placetowrite.com/) software.
-
-<div>
-<center>
-<img src="/img/spark/wowsystems-star.svg" width="50px"/>
-</center>
-</div>
+Coming later today.

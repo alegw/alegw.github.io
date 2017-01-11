@@ -5,10 +5,6 @@ one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-*This content will be rewritten soon.*
-
-*Thanks for being patient.*
-
 # UI Design
 I worked at [zazzle.com](http://www.zazzle.com) as a location-independent UI designer
 during early 2015.  Collaborating closely with the rest of the Design Team in California,
@@ -22,7 +18,7 @@ and improve consistency across their digital channels: website, mobile apps and 
 During the summer of 2014, I worked as an Experience Designer Intern with
 Zazzle's Product Team. We studied user archetypes by developing personas from customer
 visits and designed a push notifications service for Zazzle's mobile app.
-My friend [Matt Appleby](https://www.linkedin.com/in/matthew-appleby-21446269)
+[Matt Appleby](https://www.linkedin.com/in/matthew-appleby-21446269)
 and I envisioned and prototyped a new app using Sketch, Quartz Composer and the iOS SDK.
 
 ![Some insights gathered from a customer during his visit, details of a user's interaction with the notifications center, and a prototype of the novel app concept running on the iOS simulator.](/img/zazzle/zazzle-2014.jpg)

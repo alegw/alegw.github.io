@@ -1,67 +1,47 @@
 ---
 layout: post
-title:  "Spark"
+title:  "mycs Furniture Configurator"
 one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-Spark is an application that aims to foster well-being by
-encouraging people to participate in unexpected daily challenges.
+[mycs](mycs.com) is a Berlin-based company that sells high-end customizable furniture directly to European consumers.
+Our core product is the Furniture Configurator, where visitors can create and tweak designs to 
+buy custom shelves, tables and wardrobes.
 
-[Wow!Systems](http://wowsystems.pt) is actively developing the iOS version,
-currently available for a group of private beta testers. You can watch a quick
-demo below: the password is **dailychallenge**.
+As the first UX hire, I kickstarted the user research process to find out about our customers, their attitudes
+on technology and purchasing behavior. I then led a full redesign of the Furniture Configurator web app, improving key performance metrics. I am currently responsible for further usability improvements, for designing interaction flows for new furniture types and for adapting it to smaller form factors.
 
-<div>
-<center>
-<iframe src="//player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</center>
-<br/>
-</div>
+# User research
+## Who are the users?
+Interview with users and direct sales team, use Google Analytics.
+Key insights were... older, couples, ...
+Create narratives: personas.
+● Keep track of how users are browsing the site and adjust our design assumptions.
+for example, we've struggled
 
+## What are the users struggling with?
+Think-aloud tests. 
+https://www.nngroup.com/articles/international-web-usability/
 
-# The process
-[![An illustration of our final concept, a frame of our concept video, and screenshots of our final prototype.](/img/spark/spark.jpg)](http://spark.m-iti.org/)
+Most people aren't used to dealing with complex software interactions online
+struggled with surprising elements. Uncovered: back and forth like Paint. 
 
-You can find a detailed account of our eight-month-long journey at the 
-[project's official website](http://spark.m-iti.org/).
-Here's a lightning summary:
+![The furniture configurator before the redesign.](/img/mycs/initial-configurator.jpg)
 
-- Our client provided us with an initial direction that we developed into a
-  **hunt statement**.
-- We performed research to crystallize the direction into a concept.
-    - Reading relevant literature
-    - Interviewing experts
-    - Comparing existing apps
-    - Conducting an exploratory survey
-- We focused on an idea: **to challenge people to break out of their routine**.
-- We developed an email-based prototype that implemented the idea above, and
-  had real people use it for a number of days. This is called a **concept probe**.
-- We refined the concept through speed dating and low-fidelity prototypes.
-- We crafted an interactive, high-fidelity prototype as a native iOS app that
-  illustrated the final concept.
+## Configurator redesign
+Brainstorming
 
-# The team
-We were four people sharing the responsibilities of researching,
-brainstorming, usability testing, and process-tweaking.
+What if it were designed more like a funnel?
+What if we developed a more conversational interface that makes the tool self-explanatory?
 
-I was also responsible for engineering the interactive prototype using Swift 
-and the iOS SDK.
+Interactive prototype - InVision
+Drag-and-drop: iOS tools
 
-![Pictures of the team members](/img/spark/team.jpg)
+User tests
 
+Improved bounce rates and sales, engagement – events per session, #saved designs per session
 
-*From left to right, [me](https://www.ale.earth) and my friends [André](http://andreaguiar.info/), [Arundhati](http://arundhatibasu.com/) and [Rui](http://ruimarcalo.com/).*
+![The furniture configurator after the redesign.](/img/mycs/initial-configurator.jpg)
 
-# The client
-
-[Wowsystems](http://wowsystems.pt/) is an interactive software house based in
-Funchal, capital of the beautiful island of Madeira. They are software
-artists that envision and develop both multimedia solutions and 
-[useful](http://www.delineato.com/), [delightful](http://www.placetowrite.com/) software.
-
-<div>
-<center>
-<img src="/img/spark/wowsystems-star.svg" width="50px"/>
-</center>
-</div>
+# What's next?
