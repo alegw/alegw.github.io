@@ -11,3 +11,18 @@ li.project {
 li.project a:hover {
     text-decoration: none;
 }
+
+.secondary {
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.secondary a>img {
+    float: left;
+    margin-right: 20px;
+}
+
+.secondary img {
+}
+
