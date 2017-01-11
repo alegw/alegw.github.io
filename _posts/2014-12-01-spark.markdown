@@ -6,7 +6,7 @@ categories: projects
 visible: 1
 ---
 Spark is an application that aims to foster well-being by
-encouraging people to share unexpected daily challenges with a virtual community.
+encouraging people to take part in daily challenges with a virtual community.
 We designed it as part of our Capstone Project of the Master in Human-Computer Interaction program.
 
 I researched about technology for well-being and built the prototype for the iOS version, which is
@@ -15,7 +15,7 @@ demo below: the password is **dailychallenge**.
 
 <div>
 <center>
-<iframe src="//player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
 <br/>
 </div>
@@ -58,4 +58,4 @@ and the iOS SDK.
 [Wow!Systems](http://wowsystems.pt/) is an interactive software house based in
 Funchal, capital of the beautiful island of Madeira. They are software
 artists that envision and develop both multimedia solutions and 
-[useful](http://www.delineato.com/), [delightful](http://www.placetowrite.com/) software.
+[useful](https://itunes.apple.com/us/app/delineato-pro/id590407707), [delightful](http://www.placetowrite.com/) software.
