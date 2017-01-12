@@ -18,9 +18,10 @@ li.project a:hover {
     margin-bottom: 30px;
 }
 
-.secondary-item a>img {
+.secondary-item img {
     float: left;
     margin-right: 20px;
+    margin-bottom: 15px;
 }
 
 .site-header {

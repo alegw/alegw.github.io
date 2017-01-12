@@ -5,7 +5,7 @@ one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-[mycs](mycs.com) is a Berlin-based company that sells high-end customizable furniture directly to European consumers.
+[mycs](https://de.mycs.com/) is a Berlin-based company that sells high-end customizable furniture directly to European consumers.
 Our core product is the Furniture Configurator, where visitors can create and tweak designs to 
 buy custom shelves, tables and wardrobes.
 
@@ -17,7 +17,9 @@ improving key performance metrics**. I am currently responsible for further usab
 designing interaction flows for new furniture types and adapting it to smaller form factors.
 
 # User Research
+
 #### Who are the users?
+
 When I arrived at mycs, there was little consensus on who our current users were. 
 Stakeholders had different ideas about the age composition, preferred browsing devices or their
 attitudes towards technology. I set out to create characters based on data **(personas)** so the
@@ -34,6 +36,7 @@ We also came to expect longer times for visitor conversion, as we learned that p
 can be a tricky household matter.
 
 #### What are the users struggling with?
+
 Knowing that [most people are not very good at performing complex computer tasks](https://www.nngroup.com/articles/computer-skill-levels/),
 we sought to uncover the usability issues affecting our configurator. To this end, we recruited
 a few participants for think-aloud tests.
@@ -48,6 +51,7 @@ With our initial configurator (see picture above), visitors:
 switched back and forth between these tools
 
 # Configurator Redesign
+
 Together with the Product Manager and the company's co-founder, we brainstormed a configurator design
 from scratch based on what we knew were user needs and what we assummed were the causes of the problems
 observed in the tests. For example:
@@ -86,6 +90,7 @@ was a success, resulting in improved sales and better engagement (users made 34%
 saved 116% more products to buy later).**
 
 # Next steps
+
 We are still struggling with a high bounce rate: some visitors are leaving the app without making a single
 change. One hypothesis is that people end up in the configurator before they are ready, so we are making
 revisions to our customer journey to better prime our valuable visitors.

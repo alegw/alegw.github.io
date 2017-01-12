@@ -10,8 +10,7 @@ encouraging people to take part in daily challenges with a virtual community.
 We designed it as part of our Capstone Project of the Master in Human-Computer Interaction program.
 
 I researched about technology for well-being and built the prototype for the iOS version, which is
-currently available for a group of private beta testers. You can watch a quick
-demo below: the password is **dailychallenge**.
+currently available for a group of private beta testers. You can watch a quick demo below.
 
 <div>
 <center>
@@ -21,8 +20,6 @@ demo below: the password is **dailychallenge**.
 </div>
 
 # The process
-[![An illustration of our final concept, a frame of our concept video, and screenshots of our final prototype.](/img/spark/spark.jpg)](http://spark.m-iti.org/)
-
 You can find a detailed account of our eight-month-long journey at the 
 [project's official website](http://spark.m-iti.org/).
 Here's a lightning summary:
@@ -40,6 +37,9 @@ Here's a lightning summary:
 - We refined the concept through speed dating and low-fidelity prototypes.
 - We crafted an interactive, high-fidelity prototype as a native iOS app that
   illustrated the final concept.
+
+[![Some screens from an interactive prototype.](/img/spark/spark-screens-1.jpg)](http://spark.m-iti.org/)
+[![More screens from the interactive prototype.](/img/spark/spark-screens-2.jpg)](http://spark.m-iti.org/)
 
 # The team
 We were four people sharing the responsibilities of researching,

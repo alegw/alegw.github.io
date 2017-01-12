@@ -1,19 +1,29 @@
 ---
 layout: page
-title: About me
-short-title: About me
+title: About
+short-title: About
 permalink: /about/
 ---
 
+# About me
 I work at the intersection of humans and software. I like making connections with experts in diverse backgrounds to discuss what technologists can do to empower people, so more of us lead autonomous, masterful, purposeful lives. More specifically, I am working towards **improving computer science education for kids across Hispanic America**.
 
-I have taken on the roles of **product designer**, **user researcher**, and **software engineer**.
+# Process
 
-You can follow me at {% include icon-twitter.html username="alemacgo" %} and fork my repos at
-{% include icon-github.html username="alemacgo" %}.
+In the context of solving human problems using computers, the most daunting challenge lies not on the technical process of building a piece of software, but in crafting an experience that puts people in the center, where the system communicates clearly and empowers the user to achieve her goals. This is where thoughtful design and solid engineering meet.
 
-*Let's build useful, usable, beautiful software products.*
+#### Draft
+First, I strive to obtain a deep understanding of people's needs with user research techniques. With these insights, I identify a problem by making informed assumptions that will have to be re-examined in future iterations. Next, I explore the solution space by thinking creatively, often with groups of people.
 
-*Let's teach kids to weave their imaginations using code.*
+#### Prototype
+This is the phase I enjoy the most. It is about combining what has been envisioned by design to what can be (quickly) programmed, and putting it in front of people for a humbling lesson that makes you learn and reiterate.
 
-*And let's start up a learning society.*
+#### Ship
+The product can always be made better, so it makes sense to plan for the minimum viable version and ship it as soon as it's ready. Insights will come much quicker while in production.
+
+{% highlight c %}
+goto Draft
+{% endhighlight %}
+
+# How I'm spending my time now
+I align my priorities with my daily actions, and [keep track of that on this page](/now/).
