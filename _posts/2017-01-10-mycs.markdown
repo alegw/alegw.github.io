@@ -90,6 +90,6 @@ We are still struggling with a high bounce rate: some visitors are leaving the a
 change. One hypothesis is that people end up in the configurator before they are ready, so we are making
 revisions to our customer journey to better prime our valuable visitors.
 
-Here's the live configurator again. Make sure to check out Tables and Wardrobes, too.
+Here is the link to the live configurator again. Remember, we also have Tables and Wardrobes 😄.
 
 <a target="_blank" href="https://nl.mycs.com/shelf/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>

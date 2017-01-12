@@ -23,6 +23,12 @@ li.project a:hover {
     margin-right: 20px;
 }
 
-.secondary img {
+.site-header {
+    background: white;
+    position: fixed;
+    width: 100%;
 }
 
+article,.home {
+    margin-top: 60px;
+}
