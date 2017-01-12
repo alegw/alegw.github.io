@@ -12,13 +12,13 @@ li.project a:hover {
     text-decoration: none;
 }
 
-.secondary {
+.secondary-item {
     display: inline-block;
     font-size: 20px;
     margin-bottom: 30px;
 }
 
-.secondary a>img {
+.secondary-item a>img {
     float: left;
     margin-right: 20px;
 }
@@ -32,3 +32,8 @@ li.project a:hover {
 article,.home {
     margin-top: 60px;
 }
+
+.greeting, .projects {
+    margin-bottom: 50px;
+}
+

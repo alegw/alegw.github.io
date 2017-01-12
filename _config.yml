@@ -7,7 +7,6 @@
 
 # Site settings
 title: ale.earth
-goodbye: Thanks, visit again soon!<br/>Wish for seeds, not fruits.
 description: > # this means to ignore newlines until "baseurl:"
   This website is home to Alejandro Machado's projects.
 baseurl: "" # the subpath of your site, e.g. /blog
