@@ -6,15 +6,15 @@ permalink: /now/
 ---
 
 # How I am spending my time
-Developing a career as a human-centered design professional. I'm currently **Product Designer at [mycs.com](http://de.mycs.com)**,
+1. Developing a career as a human-centered design professional. I'm currently **Product Designer at [mycs.com](http://de.mycs.com)**,
 where I engage in user research, redesign crucial aspects of the customer experience and
 help develop a company culture centered around user needs.
 
-Drafting lessons to teach computer science fundamentals to children in Hispanic America, starting next March.
+2. Drafting lessons to teach computer science fundamentals to children in Hispanic America, starting next March.
 
-Planning to do some deep reading and learning to surf somewhere off the beaten path (but with great Internet!) later this month.
+3. Planning to do some deep reading and learning to surf somewhere off the beaten path later this month.
 
-Savoring life with family and friends.
+4. Savoring life with family and friends.
 
 # My hand computer's main screen
 A screen we look at many times a day should reflect our priorities. This is
