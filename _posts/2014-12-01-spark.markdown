@@ -12,7 +12,7 @@ We designed it as part of our Capstone Project of the Master in Human-Computer I
 I researched about technology for well-being and built the prototype for the iOS version,
 currently available for a group of private beta testers. You can watch a quick demo below.
 
-<div class="video">
+<div class="padded">
 <center>
 <iframe src="https://player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
