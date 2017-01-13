@@ -67,7 +67,7 @@ observed in the tests. For example:
 
 I led several rounds of brainstorming, sketching proposals, making clickable prototypes and testing these.
 
-<div>
+<div class="video">
 <center>
 <iframe src="https://player.vimeo.com/video/199078091" width="375" height="507" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
@@ -77,7 +77,7 @@ I led several rounds of brainstorming, sketching proposals, making clickable pro
 Sometimes I wanted to simulate an interaction more complex than [InVision prototypes](https://www.invisionapp.com/)
 would allow, so I quickly built demo iOS apps to test them out.
 
-<div>
+<div class="video">
 <center>
 <iframe src="https://player.vimeo.com/video/199077881" width="375" height="507" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>

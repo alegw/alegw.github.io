@@ -9,10 +9,10 @@ Spark is an application that aims to foster well-being by
 encouraging people to take part in daily challenges with a virtual community.
 We designed it as part of our Capstone Project of the Master in Human-Computer Interaction program.
 
-I researched about technology for well-being and built the prototype for the iOS version, which is
+I researched about technology for well-being and built the prototype for the iOS version,
 currently available for a group of private beta testers. You can watch a quick demo below.
 
-<div>
+<div class="video">
 <center>
 <iframe src="https://player.vimeo.com/video/156187296" width="375" height="667" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
@@ -38,8 +38,10 @@ Here's a lightning summary:
 - We crafted an interactive, high-fidelity prototype as a native iOS app that
   illustrated the final concept.
 
-[![Some screens from an interactive prototype.](/img/spark/spark-screens-1.jpg)](http://spark.m-iti.org/)
-[![More screens from the interactive prototype.](/img/spark/spark-screens-2.jpg)](http://spark.m-iti.org/)
+<center>
+<img height="350px" alt="Some screens from an interactive prototype." src="/img/spark/spark-screens-1.jpg" />
+<img height="350px" alt="More screens from the interactive prototype." src="/img/spark/spark-screens-2.jpg" />
+</center>
 
 # The team
 We were four people sharing the responsibilities of researching,
@@ -50,8 +52,11 @@ and the iOS SDK.
 
 ![Pictures of the team members](/img/spark/team.jpg)
 
-
-*From left to right, [me](https://www.ale.earth) and my friends [André](http://andreaguiar.info/), [Arundhati](http://arundhatibasu.com/) and [Rui](http://ruimarcalo.com/).*
+<center>
+From left to right, <a href="https://www.ale.earth">me</a> and my friends <a href="http://andreaguiar.info/">André</a>, 
+<a href="http://arundhatibasu.com/">Arundhati</a> and Rui.
+<br/> <br/>
+</center>
 
 # The client
 
