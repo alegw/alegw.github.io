@@ -44,11 +44,12 @@ accepts "lde" as correct.
 
 A three-letter word should be marked wrong if there is a single typo.
 
-# Deep dives
+# Deep dives and future work
 I would like to work with you to:
 
 - Design a more effective onboarding experience for Duolingo Clubs.
 - Foster more healthy competition inside your club through tailored notifications, challenging club friends to reach certain milestones, etc.
+- Follow the company's roadmap to continue building effective and engaging educational products.
 
 <center>
 <img width="300px" alt="Duo and Ale" src="/img/hi-duolingo/duolingo+alejandro.jpg" />
