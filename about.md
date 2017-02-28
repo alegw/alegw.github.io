@@ -6,7 +6,9 @@ permalink: /about/
 ---
 
 # About me
-I work at the intersection of humans and software. I like making connections with experts in diverse backgrounds to discuss what technologists can do to empower people, so more of us lead autonomous, masterful, purposeful lives. More specifically, I am working towards **improving computer science education for kids across Hispanic America**.
+I work at the intersection of humans and software, researching human wants and needs to design digital products that are useful and usable. I have a strong background in computer science that lets me communicate effectively to work alongside the best software engineers.
+
+I like making connections with experts in diverse backgrounds to discuss what technologists can do to empower people, so more of us lead autonomous, masterful, purposeful lives. More specifically, I am working towards **improving computer science education for kids across Hispanic America**.
 
 # Process
 
