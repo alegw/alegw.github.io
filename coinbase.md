@@ -21,7 +21,7 @@ process still involves a lot of friction, and some ideas on how to make it smoot
 The first thing my friends told me when I asked them why they hadn't yet gotten
 into bitcoin despite wanting to was "Hey, I don't have a spare $7000 in cash to
 buy *a* bitcoin". They're financially and technically capable (one of them
-works at Google!), yet they thought bitcoin is only traded in whole units, like
+works at Google!), yet they thought bitcoin was only traded in whole units, like
 stocks.
 
 - Sell *satoshis* to first-time users.
