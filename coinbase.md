@@ -21,14 +21,14 @@ process still involves a lot of friction, and some ideas on how to make it smoot
 The first thing my friends told me when I asked them why they hadn't yet gotten
 into bitcoin despite wanting to was "Hey, I don't have a spare $7000 in cash to
 buy *a* bitcoin". They're financially and technically capable (one of them
-works at Google!), yet they think bitcoin is only traded in whole units, like
+works at Google!), yet they thought bitcoin is only traded in whole units, like
 stocks.
 
 - Sell *satoshis* to first-time users.
 Whole numbers are more tangible and understandable. Buying 1000 satoshis *feels*
 better than buying 0.00001 bitcoin.
 
-# People don't know how much to purchase at first
+# People can't decide how much to purchase
 Sure, the Coinbase app tried to convince my friend to buy his first $5 in
 bitcoin, but he had heard the on-chain fees averaged $2. That buy didn't make sense.
 We need to give users a little nudge so they buy with a concrete suggestion
@@ -49,7 +49,7 @@ other tabs to look into the competitors' rates.
   could end up being more appealing than getting $10 free for the first $100.
 
 # People want to complete the process soon
-Because of the card fee, my friend ended up linking his bank account, an
+To avoid card fees, my friend ended up linking his bank account, an
 error-prone process as his bank wasn't listed, and waiting for 4 business days.
 He expressed his frustration at having his money "floating around", 
 especially since the price of bitcoin rose during those days.
@@ -64,27 +64,23 @@ more comfortable using Coinbase in Europe, where you manually approve each IBAN
 transaction. [Push rather than pull](https://coincenter.org/entry/how-are-payments-with-bitcoin-different-than-credit-cards).
 
 - We can't revolutionize the US banking system in an afternoon, so the best we
-  can do is keep building trust. How about improving those [really terrible Google reviews](/img/coinbase-google-reviews.jpg)?
+  can do is to keep building trust. How about improving those [really terrible Google reviews](/img/coinbase-google-reviews.jpg)?
 
 # People want to be follow a guided path
-The link that we sent from the web didn't say that you'd get $10 worth of BTC if they bought $100 – it's inconsistent.
-"Feels scattered", he had started it a while ago and had to manually go to
-Settings to complete his verification.
+My friend reported the onboarding process had "felt scattered", and manually
+had to go to settings to complete some pending verifications before being able
+to buy. He compared Coinbase's process unfavorably to [Robinhood's](https://www.robinhood.com/).
 
-make it more into a funnel, talk about the configurator and how people didn't
-know where to start. we grew engagement.
-[Robinhood](https://www.robinhood.com/) is a good example they compared it to.
-
-# There are other glitches...
-We did an invite, sent it via text message and the link is a platform-specific. Android -> iOS doesn't. My referral sent an Android link to an iOS device. I had to send it from the web
+- At my previous company, we were able to greatly increase engagement in making
+  customizable furniture by [replacing the toolbox with a more guided funnel](/projects/mycs/).
+This would also work here.
 
 # That's it!
 Reducing friction on first purchases will surely contribute to create a more
 inclusive environment. The space is still too daunting and volatile
-for the average consumer, so a good next step would be educating her on 
-[smart investment
-strategies](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=cityhammercom-20&linkId=a8fdda8139de4491d304a4e34685f34).
+for the average consumer, so a good next step would be educating him on 
+[smart investment strategies](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=cityhammercom-20&linkId=a8fdda8139de4491d304a4e34685f34).
 We can embed mini-lessons in the app in a delightful way, much like [Albert](http://meetalbert.com/) does.
 
-Thanks. Click [here](https://www.ale.earth/) to see my portfolio. My recommendations are [here](https://www.linkedin.com/in/alemacgo/).
+Thanks for reading! Click [here](https://www.ale.earth/) to see my portfolio. My recommendations are [here](https://www.linkedin.com/in/alemacgo/).
 
