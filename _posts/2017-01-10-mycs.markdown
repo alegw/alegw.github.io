@@ -5,13 +5,14 @@ one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-[mycs](https://de.mycs.com/) is a Berlin-based company that sells high-end customizable furniture directly to European consumers.
+[mycs](https://de.mycs.com/) is a based company that sells high-end
+customizable furniture directly to consumers in Germany, France and Switzerland.
 At their core is the **configurator**, a web app that lets visitors create personalized shelves, tables, wardrobes and sofas.
 
 As the first UX hire, I kickstarted the user research process to find out about customers, their attitudes
 on technology and purchasing behavior. I then **led a full redesign of the furniture configurator, 
-improving sales and engagement metrics**. I am currently responsible for further usability improvements, 
-designing interaction flows for new furniture types and adapting it to smaller form factors.
+improving sales and engagement metrics**. I am responsible for further usability improvements, 
+designing interaction flows for new furniture types and adapting the web app to smaller form factors.
 
 <a target="_blank" href="https://nl.mycs.com/shelf/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
 
@@ -20,7 +21,7 @@ designing interaction flows for new furniture types and adapting it to smaller f
 #### Who are the users?
 
 When I arrived at mycs, there was little consensus on who the users were.
-Stakeholders had different ideas about the age composition, preferred browsing devices or their
+Stakeholders had different ideas about the age composition, preferred browsing devices and their
 attitudes towards technology. I set out to create characters based on data (personas) so the
 nascent Product team and the company as a whole could relate and empathize with customers easily.
 To this end, I analyzed Google Analytics data and conducted semi-structured interviews 
@@ -29,7 +30,7 @@ with the direct sales team. Two key insights were:
 - most of our users were around age 45
 - most of our users live with a partner and make decisions together
 
-These findings made us adjust the company's initial design assumption that the people who want our
+These findings made us adjust the company's assumption that the people who want our
 products would generally be looking for the best price possible — they prefer to buy products of high quality.
 We also adjusted our expectations of visitor conversion times, as we learned that purchasing furniture
 can be a tricky and lengthy discussion in every household.
