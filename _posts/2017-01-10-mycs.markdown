@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "mycs Furniture Configurator"
+title:  "mycs furniture configurator"
 one-liner: "TODO"
 categories: projects
 visible: 1
 ---
 [mycs](https://de.mycs.com/) is a Berlin-based company that sells high-end customizable furniture directly to European consumers.
-Our core product is the Furniture Configurator, where visitors can create and tweak designs to 
-buy custom shelves, tables and wardrobes.
+At their core is the **configurator**, a web app that lets visitors create personalized shelves, tables, wardrobes and sofas.
 
-As the first UX hire, I kickstarted the user research process to find out about our customers, their attitudes
-on technology and purchasing behavior. I then **led a full redesign of the Furniture Configurator web app, 
+As the first UX hire, I kickstarted the user research process to find out about customers, their attitudes
+on technology and purchasing behavior. I then **led a full redesign of the furniture configurator, 
 improving sales and engagement metrics**. I am currently responsible for further usability improvements, 
 designing interaction flows for new furniture types and adapting it to smaller form factors.
 
@@ -20,52 +19,53 @@ designing interaction flows for new furniture types and adapting it to smaller f
 
 #### Who are the users?
 
-When I arrived at mycs, there was little consensus on who our current users were. 
+When I arrived at mycs, there was little consensus on who the users were.
 Stakeholders had different ideas about the age composition, preferred browsing devices or their
 attitudes towards technology. I set out to create characters based on data (personas) so the
-nascent Product Team and the company as a whole could relate and empathize with customers easily.
+nascent Product team and the company as a whole could relate and empathize with customers easily.
 To this end, I analyzed Google Analytics data and conducted semi-structured interviews 
-with the direct sales team. There were a few key insights, including:
+with the direct sales team. Two key insights were:
 
 - most of our users were around age 45
 - most of our users live with a partner and make decisions together
 
 These findings made us adjust the company's initial design assumption that the people who want our
-products would generally be looking for the best price possible (they prefer to be assured of our quality).
-We also came to expect longer times for visitor conversion, as we learned that purchasing furniture
-can be a tricky household matter.
+products would generally be looking for the best price possible — they prefer to buy products of high quality.
+We also adjusted our expectations of visitor conversion times, as we learned that purchasing furniture
+can be a tricky and lengthy discussion in every household.
 
 #### What are the users struggling with?
 
 Knowing that [most people are not very good at performing complex computer tasks](https://www.nngroup.com/articles/computer-skill-levels/),
-we sought to uncover the usability issues affecting our configurator. To this end, we recruited
-a few participants for think-aloud tests.
+we sought to uncover the usability issues affecting our configurator. To this end, we recruited participants for think-aloud tests.
+
+This was the shelf configurator before the redesign:
 
 ![The furniture configurator before the redesign.](/img/mycs/initial-configurator.jpg)
 
-With our initial configurator (see picture above), visitors:
-
-- spent considerable time staring at the screen without interacting
-- expressed confusion when changing a value immediately altered another (e.g. changing the width would change the number of columns)
+People who visited this page:
+- spent considerable time staring at the screen without interacting.
+- expressed confusion when changing a value immediately altered another (e.g.  changing the width would change the number of columns).
 - saw the icons on the right (size, color, boards, fronts and overview) as a *toolbox*, and frequently 
-switched back and forth between these tools
+switched back and forth between these tools.
 
 # Configurator Redesign
 
-Together with the Product Manager and the company's co-founder, we brainstormed a configurator design
-from scratch based on what we knew were user needs and what we assummed were the causes of the problems
-observed in the tests. For example:
+Together with the company's founder and the product manager, I brainstormed a configurator design
+based on proven user needs and causes for the problems observed in tests.
 
-**Observation: the user spends considerable time staring at the screen without interacting**.
+**Observation:** the user spends considerable time staring at the screen without interacting.
 
-**Assumption: he doesn't know where to start**.
+**Cause:** he doesn't know where to start.
 
-- What if it had a conversational interface?
-- What if the system made some changes for him?
-- What if the configurator was made of sequential steps?
+**Ideas for improvements:**.
+
+- What if the system communicated directly through a conversational interface?
+- What if the configurator was made of sequential steps, reducing the number of
+  options available at any given point?
 - What if we employed coachmarks for walking the user through his first visit?
 
-I led several rounds of brainstorming, sketching proposals, making clickable prototypes and testing these.
+I led several rounds of brainstorming, sketching proposals, making and testing clickable static-screen prototypes.
 
 <div class="padded">
 <center>
@@ -74,8 +74,8 @@ I led several rounds of brainstorming, sketching proposals, making clickable pro
 <br/>
 </div>
 
-Sometimes I wanted to simulate an interaction more complex than [InVision prototypes](https://www.invisionapp.com/)
-would allow, so I quickly built demo iOS apps to test them out.
+Sometimes we wanted to quickly test an interaction more complex than static-screen
+prototypes allow, so I coded demo iOS apps to simulate them. Here's an example of a drag-and-drop interface.
 
 <div class="padded">
 <center>
@@ -85,16 +85,35 @@ would allow, so I quickly built demo iOS apps to test them out.
 </div>
 
 After a few weeks of iterating and working closely with the Engineering team, we shipped brand new
-configurators for four different furniture types, keeping an eye on weekly analytics. **The redesign
-was a success, resulting in improved sales and better engagement (users made 34% more changes and
+configurators for four different furniture types, keeping an eye on weekly analytics. The redesign
+was a success, resulting in improved sales and better engagement **(users made 34% more changes and
 saved 116% more products to buy later).**
+
+
+# Try the configurator yourself
+Visit the [shelf configurator](https://nl.mycs.com/shelf/FwSSDKLSv) and create your own shelf, step by step. You
+can also create a custom [sofa](https://de.mycs.com/sofa-joyn/ziD6P9KQZ),
+[wardrobe](https://de.mycs.com/kleiderschrank/ziFo0Cy1Z) or
+[table](https://de.mycs.com/tisch/pH9dsLAfX).
+
+<a target="_blank" href="https://nl.mycs.com/shelf/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
+
+# The configurator in tiny screens
+mycs is getting more and more mobile traffic. While we don't expect people to
+commit to a large purchase on their phones, we want to offer a full customization experience 
+that they can complete seamlessly on their tablets or computers at a convenient time.
+
+I made several proposals for the mobile shelf configurator in the form of
+clickable prototypes, optimized for 4-inch iPhones — the narrowest device we
+decided to support. [Here is one](http://invis.io/5WD8S4FEM).
+
+<center>
+<a target="_blank" href="http://invis.io/5WD8S4FEM"><img width="300px" alt="Click to visit the mobile prototype" src="/img/mycs/mobile-prototype.jpg" onmouseover="this.src='/img/mycs/mobile-prototype-hover.jpg';" onmouseout="this.src='/img/mycs/mobile-prototype.jpg';" /></a>
+</center>
 
 # Next steps
 
 We are still struggling with a high bounce rate: some visitors are leaving the app without making a single
-change. One hypothesis is that people end up in the configurator before they are ready, so we are making
-revisions to our customer journey to better prime our valuable visitors.
-
-You can visit the site below. Be sure to browse our tables and wardrobes, too.
-
-<a target="_blank" href="https://nl.mycs.com/shelf/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
+change. One hypothesis is that people end up in the configurator before they
+are ready to start configuring, so we are working out ways to expose them to
+more product inspirations [without overwhelming them](http://coglode.com/gem/choice-paradox).
