@@ -106,7 +106,7 @@ that they can complete seamlessly on their tablets or computers at a convenient 
 
 I made several proposals for the mobile shelf configurator in the form of
 clickable prototypes, optimized for 4-inch iPhones — the narrowest device we
-decided to support. [Here is one](http://invis.io/5WD8S4FEM).
+decided to support. [Interact with the prototype here](http://invis.io/5WD8S4FEM).
 
 <center>
 <a target="_blank" href="http://invis.io/5WD8S4FEM"><img width="300px" alt="Click to visit the mobile prototype" src="/img/mycs/mobile-prototype.jpg" onmouseover="this.src='/img/mycs/mobile-prototype-hover.jpg';" onmouseout="this.src='/img/mycs/mobile-prototype.jpg';" /></a>
