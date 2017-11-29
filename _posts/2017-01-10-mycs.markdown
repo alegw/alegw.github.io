@@ -5,7 +5,7 @@ one-liner: "TODO"
 categories: projects
 visible: 1
 ---
-[mycs](https://de.mycs.com/) is a based company that sells high-end
+[mycs](https://de.mycs.com/) is a company that sells high-end
 customizable furniture directly to consumers in Germany, France and Switzerland.
 At their core is the **configurator**, a web app that lets visitors create personalized shelves, tables, wardrobes and sofas.
 
