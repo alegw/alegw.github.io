@@ -7,7 +7,8 @@ visible: 1
 ---
 [mycs](https://de.mycs.com/) is a company that sells high-end
 customizable furniture directly to consumers in Germany, France and Switzerland.
-At their core is the **configurator**, a web app that lets visitors create personalized shelves, tables, wardrobes and sofas.
+Their core digital product is the **configurator**, a web app that lets visitors 
+create personalized shelves, tables, wardrobes and sofas.
 
 As the first UX hire, I kickstarted the user research process to find out about customers, their attitudes
 on technology and purchasing behavior. I then **led a full redesign of the furniture configurator, 
