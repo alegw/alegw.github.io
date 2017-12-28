@@ -17,6 +17,7 @@ were holding out on their first purchase. I found the first thing we should rede
 at Coinbase is **the onboarding process**. Here are a few reasons why this
 process still involves a lot of friction, and some ideas on how to make it smoother.
 
+
 # People don't realize they can buy fractions of bitcoin
 The first thing my friends told me when I asked them why they hadn't yet gotten
 into bitcoin despite wanting to was "Hey, I don't have a spare $7000 in cash to
