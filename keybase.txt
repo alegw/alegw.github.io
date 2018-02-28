@@ -1,68 +1,55 @@
 ==================================================================
-https://keybase.io/alemacgo
+https://keybase.io/alegw
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://ale.earth
-  * I am alemacgo (https://keybase.io/alemacgo) on keybase.
-  * I have a public key with fingerprint D458 1176 56B8 0CEB 3A17  076B 5F60 C542 9F49 643C
+  * I am alegw (https://keybase.io/alegw) on keybase.
+  * I have a public key ASD0sFqg121P8tm5FFr7b2gsi1zw5VqeOOA-dc6u16Lpcgo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01017bec459245b3edd1d3a27ae5db0a5150aa59df96ea4a85e3ff25034ebd0cc1210a",
-            "fingerprint": "d458117656b80ceb3a17076b5f60c5429f49643c",
-            "host": "keybase.io",
-            "key_id": "5f60c5429f49643c",
-            "kid": "01017bec459245b3edd1d3a27ae5db0a5150aa59df96ea4a85e3ff25034ebd0cc1210a",
-            "uid": "c5aaeb5dbceb399cd4578f61e2609c00",
-            "username": "alemacgo"
-        },
-        "service": {
-            "hostname": "ale.earth",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120f4b05aa0d76d4ff2d9b9145afb6f682c8b5cf0e55a9e38e03e75ceaed7a2e9720a",
+      "host": "keybase.io",
+      "kid": "0120f4b05aa0d76d4ff2d9b9145afb6f682c8b5cf0e55a9e38e03e75ceaed7a2e9720a",
+      "uid": "1afcc2326608ac7a1d828e2f07018319",
+      "username": "alegw"
     },
-    "ctime": 1454793805,
-    "expire_in": 157680000,
-    "prev": "9f5a3035903f591a17fb8f4fe33b6477f0a4bec330403e264863ddcc2d93c0f3",
-    "seqno": 6,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1519784975,
+      "hash": "b1f5f54d465767345fd86a7453000ceb5a43afa812e3326d85117ad23538a948274dc291fe961ad84cd96d5f50e36533d9a93e3ece0a397f791c04be4ae1a10a",
+      "hash_meta": "b81514eeb89623c033eb1c95076f331306ece78096809aa133068787bcf7691f",
+      "seqno": 2164015
+    },
+    "service": {
+      "hostname": "ale.earth",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519785030,
+  "expire_in": 504576000,
+  "prev": "548ee30d62a4a209f5f3e5d1eacd3f64561f633feeba537ac8b862d3e3d9e034",
+  "seqno": 8,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.49
-Comment: https://keybase.io/crypto
-
-yMImAnicrVJLaBNBGE5arVrRiFKiHqysD0RjO7uzs48gKijoISqCKKgYZ2dnkzXp
-brrZxtY0PvFdlargA0qpWnIRpRcPYrFqLYrooUWhUKpWfNRi6wNFemidLYoXj85l
-mI/v++b7P/72KYW+Yj9XGuiamh00/U/una/ybb6lr8tymq3XcOEsl6BjF03qNO1G
-E6bOhTnAA17WKBGRKohIg1TXeR1iQcYU6RrAiEcAY6TqhipRLGIFUWgYAgJQpJoO
-COEFHmAuxBmmFaNOyjEtl9nqIlJ4XpaQpCmAUA1iXgaypCFDAgSJgmqIqiRCwoRx
-O+0pWDgNp2mZaTOMPaJj8f7B/8+5q8bsCMKYakzpZVVVwvLLiiHxVJCASgDwiGnq
-WLiCMjZO0gpMYjaXC3EMzZiEesV6k/xllFHsuHEmTDm2axM7yeC466bSYU/m1qQ8
-3m6qRX87RDXT0lmJTJGhTtq0LS7MMyZxTc+SF5Eoq1ABKMTR6pTp0KjpMZAsKYAd
-7x+aYZaqgTAEEKkAGkjlWfGGphiiQSHUJFGWDYBFVhyEQASQzScqEtR1QgRdhQQY
-kPNmqrRsLiyxmDjGLNNmzMJulUO53P227eN8/mJf0fgCb7l8xZOm/Vm5Y4sm+o4P
-H7wanSf1NK68WX+u/nDkcXXf3s6zl17ebQh0XKhpbG3+8KS/79rK5SPdVuJr3fDd
-CfWrjh4605EL4vamp7u2mfv5xZGrwZKfPSd3BsYlWofm/Si68bYuEviSSWZXbcqr
-D9v6930vXZ8/45yqPVQL5Nn80LL5K24JW+PJj8/rnI7VA9dC5Z/mt00KXh/F7Zfn
-LCnKFzTk1xS9mjz4oHnDm8kvDlx5PWPm4dpkyuj2LcCnoxeOzPrc2bRv152yhb03
-eoNDO7oaz2VM2HJicGnLJ4u8nysPd9rxiyOtlc8CDQ8vbZn+aM/xb6O5d0cL1kZu
-Lyh59zI58D27s3zZxkL/kpbStb8Aaj5Bzw==
-=MxNR
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9LBaoNdtT/LZuRRa+29oLItc8OVanjjgPnXOrtei6XIKp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjRiMDVhYTBkNzZkNGZmMmQ5YjkxNDVhZmI2ZjY4MmM4YjVjZjBlNTVhOWUzOGUwM2U3NWNlYWVkN2EyZTk3MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjRiMDVhYTBkNzZkNGZmMmQ5YjkxNDVhZmI2ZjY4MmM4YjVjZjBlNTVhOWUzOGUwM2U3NWNlYWVkN2EyZTk3MjBhIiwidWlkIjoiMWFmY2MyMzI2NjA4YWM3YTFkODI4ZTJmMDcwMTgzMTkiLCJ1c2VybmFtZSI6ImFsZWd3In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE5Nzg0OTc1LCJoYXNoIjoiYjFmNWY1NGQ0NjU3NjczNDVmZDg2YTc0NTMwMDBjZWI1YTQzYWZhODEyZTMzMjZkODUxMTdhZDIzNTM4YTk0ODI3NGRjMjkxZmU5NjFhZDg0Y2Q5NmQ1ZjUwZTM2NTMzZDlhOTNlM2VjZTBhMzk3Zjc5MWMwNGJlNGFlMWExMGEiLCJoYXNoX21ldGEiOiJiODE1MTRlZWI4OTYyM2MwMzNlYjFjOTUwNzZmMzMxMzA2ZWNlNzgwOTY4MDlhYTEzMzA2ODc4N2JjZjc2OTFmIiwic2Vxbm8iOjIxNjQwMTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWxlLmVhcnRoIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDQifSwiY3RpbWUiOjE1MTk3ODUwMzAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNTQ4ZWUzMGQ2MmE0YTIwOWY1ZjNlNWQxZWFjZDNmNjQ1NjFmNjMzZmVlYmE1MzdhYzhiODYyZDNlM2Q5ZTAzNCIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB/ZsqyStPFBUZnpRmHV0fjrY9NmUm85E2jycS4TMsDpnQe0FyVEEd5j/2u2FTU9fMjZI64Qcv+GNB2X1f5+fAmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCsarRzSB2CepOfqWwYI+ReQZLYyD3696zJdug+CRJrOqN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/alemacgo
+View my publicly-auditable identity here: https://keybase.io/alegw
 
 ==================================================================
