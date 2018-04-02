@@ -15,7 +15,7 @@ on technology and purchasing behavior. I then **led a full redesign of the furni
 improving sales and engagement metrics**. I am responsible for further usability improvements, 
 designing interaction flows for new furniture types and adapting the web app to smaller form factors.
 
-<a target="_blank" href="https://nl.mycs.com/shelf/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
+<a target="_blank" href="https://de.mycs.com/regal/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
 
 # User Research
 
