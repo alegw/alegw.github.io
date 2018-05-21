@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Toshi usability improvements"
+one-liner: "Study challenges by the crypto early majority"
+categories: projects
+visible: 1
+---
+In late 2017, I became enthralled with the potential of trustless general-purpose computation, 
+so I decided to explore how design practices could improve adoption of decentralized technologies.
+
+Toshi is one of the products I was (and still am) most excited about, since it allowed 
+me to send money to loved ones in Venezuela who were uninitiated in cryptocurrency. 
+It wasn’t easy, but it was possible! I did a two-day deep dive – heuristic evaluations, 
+interviews, rapid prototyping – to suggest user experience improvements. 
+
+I published my process and findings as a two-part series on Medium. 
+
+The first one [focuses on end users](https://medium.com/@alegw/designing-toshi-for-the-next-3-billion-862f2ad9072c).
+
+<a target="_blank" href="https://medium.com/@alegw/designing-toshi-for-the-next-3-billion-862f2ad9072c"><img alt="Click to read the first article." src="/img/toshi/toshi-article-1.jpg"/></a>
+
+The second one [caters to developers](https://medium.com/@alegw/encouraging-devs-to-build-for-toshi-af9ba905428e).
+
+<a target="_blank" href="https://medium.com/@alegw/encouraging-devs-to-build-for-toshi-af9ba905428e"><img alt="Click to read the second article." src="/img/toshi/toshi-article-2.jpg"/></a>

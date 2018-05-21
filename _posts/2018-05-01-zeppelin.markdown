@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Zeppelin research and strategy"
+one-liner: "Optimize website channels for a fast-paced crypto startup"
+categories: projects
+visible: 1
+---
+*This post is intentionally short on details – much of the work is confidential.*
+
+Zeppelin was in need of a website redesign, so I worked alongside them to create user personas borne out by extensive interviews with software developers, clients, and partners.
+
+In just over a month we shipped a brand new website that caters to these personas and explains Zeppelin’s value propositions better. We expect the new site will perform better at screening security audit applicants for quality.
+
+<a target="_blank" href="https://zeppelin.solutions"><img alt="Visit Zeppelin's website." src="/img/zeppelin/zeppelin-solutions.jpg"/></a>
+
+During May and early June 2018, I’m researching how developers from other backgrounds journey into Ethereum to update OpenZeppelin’s guides, so that smart contract development becomes more straightforward to learn.

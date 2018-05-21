@@ -3,9 +3,9 @@ layout: post
 title:  "Improving Zazzle's UI and UX"
 one-liner: "TODO"
 categories: projects
-visible: 1
 ---
 *Confidential information has been ommitted to comply with non-disclosure agreements.*
+
 
 # UI Design
 I worked at [zazzle.com](http://www.zazzle.com) as a location-independent UI designer

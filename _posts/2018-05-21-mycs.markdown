@@ -1,21 +1,24 @@
 ---
 layout: post
-title:  "mycs furniture configurator"
-one-liner: "TODO"
+title:  "mycs.com research and design"
+one-liner: "Design custom furniture shopping experiences"
 categories: projects
 visible: 1
 ---
-[mycs](https://de.mycs.com/) is a company that sells high-end
-customizable furniture directly to consumers in Germany, France and Switzerland.
-Their core digital product is the **configurator**, a web app that lets visitors 
-create personalized shelves, tables, wardrobes and sofas.
+[mycs.com](https://de.mycs.com/) sells custom furniture.
+
+I worked alongside the product lead and a graphic designer to transform the company's MVP into an user-friendly online shopping experience. Our product better supported the customers’ decision-making process, was easier to navigate and complete.
+
+For research, I interviewed stakeholders, analyzed website logs, and performed think-aloud tests. Then I created wireframes, hi-fi mockups and some code prototypes to communicate complex ideas to the engineers.
+
+Over two years we significantly improved engagement and sales. We also grew the UX team, added four more furniture types and shipped a mobile version.
+
+<a target="_blank" href="https://de.mycs.com/regal/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
 
 As the first UX hire, I kickstarted the user research process to find out about customers, their attitudes
 on technology and purchasing behavior. I then **led a full redesign of the furniture configurator, 
 improving sales and engagement metrics**. We then implemented further usability improvements, 
 designed interaction flows for new furniture types and adapted the web app to smaller form factors.
-
-<a target="_blank" href="https://de.mycs.com/regal/FwSSDKLSv"><img alt="Click to visit the mycs Shelves Configurator" src="/img/mycs/live-configurator.jpg" onmouseover="this.src='/img/mycs/live-configurator-hover.jpg';" onmouseout="this.src='/img/mycs/live-configurator.jpg';" /></a>
 
 # User Research
 

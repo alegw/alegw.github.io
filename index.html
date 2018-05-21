@@ -5,8 +5,8 @@ layout: default
 
 <div class="home">
   <div class="greeting">
-    <h1 class="post-title">Hi, I'm Alejandro Machado,</h1>
-    <h2>I design, build and run digital products.</h2>
+    <h1 class="post-title">I'm Alejandro Machado,</h1>
+    <h2>A Product Designer with a Computer Science background.</h2>
   </div>
   <div class="projects">
     <ul class="post-list">
@@ -14,29 +14,27 @@ layout: default
         {% if post.visible == 1  %}
         <li class="project">
             <a href="{{ post.url | prepend: site.baseurl }}">
-            <img width="350px" src="/img/{{ post.slug }}.jpg"/>
+            <img width="350px" alt="{{ post.title }}" src="/img/{{ post.slug }}.jpg" onmouseover="this.src='/img/{{ post.slug }}-hover.jpg';" onmouseout="this.src='/img/{{ post.slug }}.jpg';" />
             <!--<span class="secondary-info">{{ post.title }}: {{ post.one-liner }}</span>-->
             </a>
         </li>
         {% endif %}
         {% endfor %}
     </ul>
-  </div>
-  <div class="secondary">
-    <h2>Here are some past projects I remember fondly.</h2>
+    <h2>Here are some past projects beyond my design work.</h2>
     <div class="secondary-item">
         <img width="70px" src="/img/secondary/spotify.svg" />
-        <p>At Spotify, we developed a system to disambiguate artists with the same name. 
+        <p>At Spotify, I developed a machine learning system to disambiguate artists with the same name. 
             We were <a href="https://www.google.com/patents/WO2013185107A1">granted a US patent.</a></p>
     </div>
     <div class="secondary-item">
         <img width="70px" src="/img/secondary/redi.svg" />
-        <p>At <a href="http://www.redi-school.org/">ReDI School</a>, we coached a group of immigrants who were eager to <a href="https://www.weforum.org/agenda/2016/02/could-teaching-refugees-how-to-code-help-integration">learn programming</a>. Their app <a href="https://www.theguardian.com/world/2016/aug/05/syrian-refugees-app-navigating-german-bureacracy-bureaucrazy">is taking shape now</a>.
+        <p>At <a href="http://www.redi-school.org/">ReDI School</a>, I coached a group of immigrants who were eager to <a href="https://www.weforum.org/agenda/2016/02/could-teaching-refugees-how-to-code-help-integration">learn programming</a>. Their app <a href="https://www.theguardian.com/world/2016/aug/05/syrian-refugees-app-navigating-german-bureacracy-bureaucrazy">is taking shape now</a>.
         </p>
     </div>
     <div class="secondary-item">
         <img width="70px" src="/img/secondary/usb.svg" />
-        <p>For my CS thesis, we devised a way to translate NP problems described in second-order logic to solve them with <a href="https://en.wikipedia.org/wiki/Automated_planning_and_scheduling">automated planning</a>. <a href="http://aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/view/2694/3151">Hop in</a> if you're into computational complexity theory.</p>
+        <p>For my CS thesis, I devised a way to translate NP problems described in second-order logic to solve them with <a href="https://en.wikipedia.org/wiki/Automated_planning_and_scheduling">automated planning</a>. <a href="http://aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/view/2694/3151">Hop in</a> if you're into computational complexity theory.</p>
     </div>
   </div>
 </div>

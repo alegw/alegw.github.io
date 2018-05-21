@@ -3,7 +3,6 @@ layout: post
 title:  "Spanish pronunciation training"
 one-liner: "TODO"
 categories: projects
-visible: 1
 ---
 One of my favorite courses at the Master in Human-Computer Interaction was Ken Koedinger's
 [E-Learning Design Principles](http://www.learnlab.org/research/wiki/index.php/E-Learning_Design_Principles_and_Methods_2016). 
@@ -20,6 +19,7 @@ only an early [Wizard of Oz prototype](https://en.wikipedia.org/wiki/Wizard_of_O
 were some interesting early findings. 
 
 ![Screen showing the translation of the word "flaco".](/img/spanish-pronunciation/spanish-pronunciation-mockups.jpg)
+
 
 # Instructional Design Principles
 I followed guidelines laid out by Mayer and Clark in [their seminal book on the subject](https://www.amazon.com/Learning-Science-Instruction-Guidelines-Multimedia/dp/0470874309).

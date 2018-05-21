@@ -26,6 +26,3 @@ The product can always be made better, so it makes sense to plan for the minimum
 {% highlight c %}
 goto Draft
 {% endhighlight %}
-
-# How I'm spending my time now
-I align my priorities with my daily actions, and [keep track of that on this page](/now/).
